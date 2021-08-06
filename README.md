@@ -23,4 +23,4 @@ To make the page better meeet accessibility and SEO standards, I also:
 - The web page is live here: https://alexdmacon.github.io/SEO-refactoring/
 - The repository is here: https://github.com/alexdmacon/SEO-refactoring
 
-![Screenshot of Horiseon website](assets/images/screenshot.png) "Horiseon")
+![Screenshot of Horiseon website](assets/images/screenshot.png)
