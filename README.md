@@ -15,7 +15,7 @@ My goals were to:
 - Made a clearer HTML semantic structure.
 
 ## Accessibility and SEO
-To make the page better meeet accessibility and SEO standards, I also:
+To make the page better meet accessibility and SEO standards, I also:
 - Added "alt" attributes to images.
 - Gave the page a more descriptive title.
 
