@@ -1,7 +1,7 @@
 # SEO-Refactoring-Horiseon
 
 ## Description and Goals
-I refactored starter code for a fake marketing company's website homepage. 
+I refactored starter code for a fake marketing company's homepage. 
 My goals were to:
 - Demonstrate an understanding of SEO and accessibility standards.
 - Test my knowledge of HTML semantic structure.
